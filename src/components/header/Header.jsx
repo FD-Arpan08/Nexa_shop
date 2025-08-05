@@ -121,11 +121,6 @@ export const Header = () => {
                 Contact
               </Link>
             </li>
-            <li className="nav_item">
-              <Link to="/signup" className="nav_link">
-                Sign up
-              </Link>
-            </li>
           </ul>
 
           <div className="nav_items">

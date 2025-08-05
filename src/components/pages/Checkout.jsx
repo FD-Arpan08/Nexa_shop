@@ -116,7 +116,9 @@ export const Checkout = () => {
   return (
     <section className="checkout-section">
       {cartItems.length === 0 ? (
-        <p>Cart is empty</p>
+        <div className="container">
+          <p>Cart is empty</p>
+        </div>
       ) : (
         <>
           <h2>Billing Details</h2>

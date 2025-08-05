@@ -2162,3 +2162,25 @@ input[type="radio"]:checked + label::after {
 .header_logo {
   width: 170px;
 }
+
+/* success popup after checkout */
+
+.swal-footer{
+  text-align: center;
+}
+.swal-button{
+  background-color: var(--colo-primary);
+  padding: 10px 30px;
+}
+.swal-button:not([disabled]):hover {
+    background-color: var(--colo-dark-1);
+}
+.swal-icon--success__ring{
+  border: 4px solid hsl(0deg 0% 0%);
+}
+.swal-icon--success__line {
+  background-color: var(--colo-primary);
+}
+.swal-title{
+  color: var(--colo-dark-1);
+}
