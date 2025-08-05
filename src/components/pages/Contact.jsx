@@ -68,7 +68,7 @@ export const Contact = () => {
         <div className="con-body-left">
           <div className="call-block cmn-block">
             <h5>
-              <img src="image/icons/icons-phone.png" alt="" /> &nbsp; Call To Us
+              <img src="/image/icons/icons-phone.png" alt="" /> &nbsp; Call To Us
             </h5>
             <p>We are available 24/7, 7 days a week.</p>
             <p>Phone: +8801611112222</p>
@@ -76,7 +76,7 @@ export const Contact = () => {
           <div className="hr"></div>
           <div className="mail-block cmn-block">
             <h5>
-              <img src="image/icons/icons-mail.png" alt="" /> &nbsp; Write To US
+              <img src="/image/icons/icons-mail.png" alt="" /> &nbsp; Write To US
             </h5>
             <p>Fill out our form and we will contact you within 24 hours.</p>
             <p>

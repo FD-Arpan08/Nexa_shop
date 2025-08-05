@@ -15,7 +15,7 @@ export const Sidemenu = () => {
           <Link to="/category/groceries-and-pets" className="header_filter_link">Groceries & Pets</Link>
           <Link to="/category/health-and-beauty" className="header_filter_link">Health & Beauty</Link>
         </div>
-        <img src="./image/header.png" alt="" className="header_img" />
+        <img src="/image/header.png" alt="" className="header_img" />
       </div>
     </header>
   )

@@ -13,7 +13,7 @@ export const Footer = () => {
               <input type="email" placeholder="Enter your email" required/>
               <button>
                 <img
-                  src="image/icons/icon-send.png"
+                  src="/image/icons/icon-send.png"
                   width="24px"
                   height="24px"
                   alt=""
@@ -50,10 +50,10 @@ export const Footer = () => {
         <div className="footer-col">
           <h4>Social Links</h4>
           <div className="social-icons">
-            <Link to="#"><img src="image/icons/Icon-Facebook.png" width="22" height="22" alt=""/></Link>
-            <Link to="#"><img src="image/icons/Icon-Twitter.png"width="22" height="24" alt=""/></Link>
-            <Link to="#"><img src="image/icons/icon-instagram.png"width="22" height="22" alt=""/></Link>
-            <Link to="#"><img src="image/icons/Icon-Linkedin.png" width="22" height="22" alt=""/></Link>
+            <Link to="#"><img src="/image/icons/Icon-Facebook.png" width="22" height="22" alt=""/></Link>
+            <Link to="#"><img src="/image/icons/Icon-Twitter.png"width="22" height="24" alt=""/></Link>
+            <Link to="#"><img src="/image/icons/icon-instagram.png"width="22" height="22" alt=""/></Link>
+            <Link to="#"><img src="/image/icons/Icon-Linkedin.png" width="22" height="22" alt=""/></Link>
           </div>
         </div>
       </div>

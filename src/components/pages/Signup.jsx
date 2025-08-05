@@ -60,7 +60,7 @@ const Signup = () => {
       <div className="auth_container">
         <div className="auth_img">
           <img
-            src={`${import.meta.env.VITE_SITE_URL}/image/auth-image.png`}
+            src="/image/auth-image.png"
             alt=""
             className="auth_image"
           />
